@@ -1,0 +1,3 @@
+/home/frederik/dev/RPLidar/rplidar_sdk/sdk/build/CMakeFiles/pyrplidar_c1.dir
+/home/frederik/dev/RPLidar/rplidar_sdk/sdk/build/CMakeFiles/edit_cache.dir
+/home/frederik/dev/RPLidar/rplidar_sdk/sdk/build/CMakeFiles/rebuild_cache.dir
